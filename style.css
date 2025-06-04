@@ -1,0 +1,36 @@
+.homepg{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+      
+}
+
+html, body {
+    /* height: 100%; */
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden;  */
+}
+
+/* .bg-img{
+    background-image: url(./pexels-aaronburden-2449543.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 120%;
+    
+
+} */
+
+
+.city-card {
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+
+
+
+
